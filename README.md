@@ -34,8 +34,6 @@
 
 ![изображение](https://github.com/sGolubn/sql_hw/blob/main/1.jpg).
 
-```
----
 
 ### Задание 2
 
